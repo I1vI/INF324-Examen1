@@ -1,0 +1,14 @@
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\bin\Debug\WindowsFormsMiBD.exe.config
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\bin\Debug\WindowsFormsMiBD.exe
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\bin\Debug\WindowsFormsMiBD.pdb
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.Form1.resources
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.Properties.Resources.resources
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.csproj.GenerateResource.Cache
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.exe
+c:\users\edwin\documents\visual studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.pdb
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.login.resources
+C:\Users\Edwin\Documents\Visual Studio 2012\Projects\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.Form2.resources
+C:\xampp\htdocs\examen324\Ejercicio5\WindowsFormsMiBD\WindowsFormsMiBD\bin\Debug\WindowsFormsMiBD.exe.config
+C:\xampp\htdocs\examen324\Ejercicio5\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.exe
+C:\xampp\htdocs\examen324\Ejercicio5\WindowsFormsMiBD\WindowsFormsMiBD\obj\Debug\WindowsFormsMiBD.pdb
